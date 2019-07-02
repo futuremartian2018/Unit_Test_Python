@@ -12,8 +12,15 @@ One can also create an instance of a class by reading information about pets fro
 
 ![image](https://user-images.githubusercontent.com/37414943/60544171-763d1000-9d18-11e9-934b-c505e47ee852.png)
 
-class FarmAnimals inherits form Pets, while adding an additional field which contains a sound, that a particualar animal makes.
+Class FarmAnimals inherits form Pets, while adding an additional field which contains a sound, that a particualar animal makes.
 
 ![image](https://user-images.githubusercontent.com/37414943/60544537-48a49680-9d19-11e9-9ed4-579815aab20a.png)
 
 # Test
+
+In order to test classes mentioned above and their methods we create another file, which contains testing methods.
+Testing requires importing unittest library as well as classes that will be tested. Inside class TestFarm
+we set up class instances and their parameters befeore each tests execution.
+
+![image](https://user-images.githubusercontent.com/37414943/60544786-cd8fb000-9d19-11e9-9ec2-e9df786f81ee.png)
+
