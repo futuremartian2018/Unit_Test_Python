@@ -27,3 +27,7 @@ we set up class instances and their parameters befeore each tests execution.
 After each method is tested information about its execution is printed to console.
 
 ![image](https://user-images.githubusercontent.com/37414943/60545285-04b29100-9d1b-11e9-9d53-1b3837f934e1.png)
+
+After running the test we get an information about how many tests took place and if there were any issues with our code.
+
+![image](https://user-images.githubusercontent.com/37414943/60547001-e8b0ee80-9d1e-11e9-8bdc-dc9d2c183aba.png)
