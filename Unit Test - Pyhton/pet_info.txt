@@ -1,0 +1,3 @@
+cat,2,Snowball
+dog,3,Terry
+hamster,5,Leaf
